@@ -19,9 +19,8 @@ I enjoy solving programming problems, exploring new technologies, and building p
 ## ⏱️ WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rediska&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rediska&theme=tokyonight&langs_count=1" />
 </p>
-
 ---
 
 ## 🛠️ Technologies & Tools
